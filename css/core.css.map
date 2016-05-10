@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,SAAW,CACP,gBAAgB,CCLT,IAAO,CDQlB,GAAI,CACA,kBAAkB,CAAE,gBAAgB,CACpC,eAAe,CAAE,gBAAgB,CACjC,aAAa,CAAE,gBAAgB,CAC/B,UAAU,CAAE,gBAAgB,CAC5B,KAAK,CCXK,OAAO,CDcrB,SAAU,CACN,KAAK,CCdU,OAAO",
+"sources": ["../scss/core.scss","../scss/_variables.scss"],
+"names": [],
+"file": "core.css"
+}

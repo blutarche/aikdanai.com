@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@import "variables";
+
+html, body {
+    background-color: $bg-color;
+}
+
+.fa {
+    -webkit-transition: color 200ms ease;
+    -moz-transition: color 200ms ease;
+    -o-transition: color 200ms ease;
+    transition: color 200ms ease;
+    color: $slate-color;
+}
+
+.fa:hover {
+    color: $slate-pale-color;
+}
